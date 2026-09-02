@@ -55,9 +55,6 @@ The dashboard provides a consolidated view of key e-commerce performance indicat
 - 💳 Payment Method Analysis
 - 👤 Customer Demographics
 
----
----
-
 ## 📊 Dataset Information
 
 ### Analysis Period
