@@ -490,7 +490,7 @@ Recommendations
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Project Title:** E-Commerce Order & Customer Analytics
 
