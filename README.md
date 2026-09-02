@@ -471,8 +471,7 @@ The Excel dashboard provides an executive-level view of:
 ---
 
 # 🔄 Project Workflow
-
-
+```text
 Raw Transaction Data
         ↓
 Data Cleaning & Validation
@@ -486,10 +485,8 @@ Backend / Summary Analysis
 Dashboard
         ↓
 Business Insights
-
-
----
-
+        ↓
+Recommendations
 # 👨‍💻 Author
 
 **Project Title:** E-Commerce Order & Customer Analytics
