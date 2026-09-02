@@ -6,6 +6,11 @@
 
 The project transforms transaction-level data into meaningful **KPIs, trends, comparisons, business insights, and recommendations** to support data-driven decision-making.
 
+The analysis is based on the provided Excel workbook containing cleaned transaction data, raw data, dashboard metrics, backend summaries, and a data dictionary.
+
+
+
+
 ---
 
 ## 🎯 Project Objectives
