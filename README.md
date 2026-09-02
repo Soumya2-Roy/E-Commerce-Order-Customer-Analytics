@@ -29,31 +29,36 @@ The main objectives of this project are:
 ---
 ---
 
-## 📊 Dashboard Preview
+---
 
-The project includes an Excel-based interactive dashboard designed to provide a clear and management-friendly view of e-commerce performance.
+# 📊 Dashboard Preview
+
+This project includes an Excel-based interactive dashboard designed to provide a clear and management-friendly view of e-commerce performance.
 
 ### E-Commerce Order & Customer Analytics Dashboard
 
-![E-Commerce Order & Customer Analytics Dashboard](images/dashboard.png)
+📦 **Dashboard Image Package:** [Download Dashboard Image (ZIP)](images.zip)
 
-The dashboard provides a consolidated view of:
+The ZIP file contains the dashboard image in JPG format. Download and extract the ZIP file to view the complete dashboard.
 
-- Net Revenue
-- Total Orders
-- Customers
-- Quantity Sold
-- Average Order Value
-- Average Rating
-- Monthly Performance
-- Regional Performance
-- Category Performance
-- Product Performance
-- Customer Segments
-- Order Status
-- Payment Methods
-- Customer Demographics
+### Dashboard Includes
 
+- 💰 Net Revenue
+- 📦 Total Orders
+- 👥 Customers
+- 🛒 Quantity Sold
+- 💵 Average Order Value
+- ⭐ Average Rating
+- 📅 Monthly Performance
+- 🌍 Regional Performance
+- 🛍️ Category Performance
+- 🏆 Product Performance
+- 👥 Customer Segments
+- 📦 Order Status
+- 💳 Payment Methods
+- 👤 Customer Demographics
+
+---
 ---
 
 ## 📊 Dataset Information
