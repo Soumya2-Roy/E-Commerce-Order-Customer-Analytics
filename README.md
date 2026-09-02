@@ -487,3 +487,19 @@ Dashboard
 Business Insights
         ↓
 Recommendations
+
+---
+
+## 👨‍💻 Author
+
+**Project Title:** E-Commerce Order & Customer Analytics
+
+**Presented by:** **Soumya Roy**
+
+**Project Type:** Excel Business Intelligence / Data Analytics Project
+
+**Analysis Period:** January–August 2026
+
+**Primary Tool:** Microsoft Excel
+
+---
