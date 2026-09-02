@@ -23,7 +23,7 @@ The main objectives of this project are:
 - Analyse customer behaviour using Customer Segments, Gender, Age, and repeat-order patterns.
 - Evaluate order performance based on Delivered, Returned, Cancelled, and Pending statuses.
 - Analyse revenue and order contribution by Payment Method.
-- Identify important business opportunities and operational issues.
+- Identify important business opportunities and operational improvement areas.
 - Present the findings through a professional Excel dashboard.
 
 ---
