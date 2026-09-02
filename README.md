@@ -488,7 +488,6 @@ Business Insights
         ↓
 Recommendations
 
----
 
 # 👨‍💻 Author
 
@@ -496,7 +495,7 @@ Recommendations
 
 **Presented by:** **Soumya Roy**
 
-**Project Type:** Excel Business Intelligence / Data Analytics Project
+**Project Type:** Excel Business Intelligence & Data Analytics Project
 
 **Analysis Period:** January–August 2026
 
