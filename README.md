@@ -472,7 +472,7 @@ The Excel dashboard provides an executive-level view of:
 
 # 🔄 Project Workflow
 
-```text
+
 Raw Transaction Data
         ↓
 Data Cleaning & Validation
@@ -486,5 +486,22 @@ Backend / Summary Analysis
 Dashboard
         ↓
 Business Insights
+
+
+---
+
+# 👨‍💻 Author
+
+**Project Title:** E-Commerce Order & Customer Analytics
+
+**Presented by:** **Soumya Roy**
+
+**Project Type:** Excel Business Intelligence & Data Analytics Project
+
+**Analysis Period:** January–August 2026
+
+**Primary Tool:** Microsoft Excel
+
+---
         ↓
 Recommendations
