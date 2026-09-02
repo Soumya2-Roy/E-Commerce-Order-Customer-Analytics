@@ -38,6 +38,9 @@ This project includes an Excel-based interactive dashboard designed to provide a
 ### E-Commerce Order & Customer Analytics Dashboard
 
 📦 **Dashboard Image Package:** [Download Dashboard Image (ZIP)](images.zip)
+<img width="1176" height="528" alt="dashboard" src="https://github.com/user-attachments/assets/a53c9f25-c4db-4cf0-a9ed-c095bb4956f8" />
+
+
 
 The ZIP file contains the dashboard image in JPG format. Download and extract the ZIP file to view the complete dashboard.
 
