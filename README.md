@@ -30,6 +30,7 @@ The main objectives of this project are:
 ---
 
 ---
+---
 
 # 📊 Dashboard Preview
 
@@ -37,12 +38,9 @@ This project includes an Excel-based interactive dashboard designed to provide a
 
 ### E-Commerce Order & Customer Analytics Dashboard
 
-📦 **Dashboard Image Package:** [Download Dashboard Image (ZIP)](images.zip)
-<img width="1176" height="528" alt="dashboard" src="https://github.com/user-attachments/assets/a53c9f25-c4db-4cf0-a9ed-c095bb4956f8" />
+<img width="1176" height="528" alt="E-Commerce Order & Customer Analytics Dashboard" src="https://github.com/user-attachments/assets/a53c9f25-c4db-4cf0-a9ed-c095bb4956f8" />
 
-
-
-The ZIP file contains the dashboard image in JPG format. Download and extract the ZIP file to view the complete dashboard.
+The dashboard provides a consolidated view of key e-commerce performance indicators, including revenue, orders, customers, products, regions, customer segments, payment methods, and order status.
 
 ### Dashboard Includes
 
@@ -52,13 +50,13 @@ The ZIP file contains the dashboard image in JPG format. Download and extract th
 - 🛒 Quantity Sold
 - 💵 Average Order Value
 - ⭐ Average Rating
-- 📅 Monthly Performance
-- 🌍 Regional Performance
+- 📅 Monthly Revenue Performance
+- 🌍 Regional Revenue Performance
 - 🛍️ Category Performance
 - 🏆 Product Performance
-- 👥 Customer Segments
-- 📦 Order Status
-- 💳 Payment Methods
+- 👥 Customer Segment Analysis
+- 📦 Order Status Analysis
+- 💳 Payment Method Analysis
 - 👤 Customer Demographics
 
 ---
