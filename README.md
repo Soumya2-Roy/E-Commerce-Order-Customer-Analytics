@@ -468,7 +468,9 @@ The Excel dashboard provides an executive-level view of:
 
 ---
 
-#  Project Workflow
+---
+
+# 🔄 Project Workflow
 
 ```text
 Raw Transaction Data
@@ -486,27 +488,3 @@ Dashboard
 Business Insights
         ↓
 Recommendations
-
-
-### One important point
-
-In your screenshot, the **Author content is inside a dark code box**. That happens because the workflow's code block wasn't properly closed.
-
-Make sure there are **three backticks directly after `Recommendations`**:
-
-```text
-Recommendations
----
-#  Author
-
-**Project Title:** E-Commerce Order & Customer Analytics
-
-**Presented by:** **Soumya Roy**
-
-**Project Type:** Excel Business Intelligence & Data Analytics Project
-
-**Analysis Period:** January–August 2026
-
-**Primary Tool:** Microsoft Excel
-
----
