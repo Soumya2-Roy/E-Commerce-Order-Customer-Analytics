@@ -27,10 +27,6 @@ The main objectives of this project are:
 - Present the findings through a professional Excel dashboard.
 
 ---
----
-
----
----
 
 # 📊 Dashboard Preview
 
