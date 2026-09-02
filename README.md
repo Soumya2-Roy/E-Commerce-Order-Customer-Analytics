@@ -489,6 +489,15 @@ Business Insights
 Recommendations
 
 
+### One important point
+
+In your screenshot, the **Author content is inside a dark code box**. That happens because the workflow's code block wasn't properly closed.
+
+Make sure there are **three backticks directly after `Recommendations`**:
+
+```text
+Recommendations
+---
 # 👨‍💻 Author
 
 **Project Title:** E-Commerce Order & Customer Analytics
