@@ -1,6 +1,6 @@
 # E-Commerce Order & Customer Analytics
 
-## 📌 Project Overview
+##  Project Overview
 
 **E-Commerce Order & Customer Analytics** is an Excel-based business intelligence project designed to analyse e-commerce orders, customer behaviour, product performance, regional sales, payment methods, and order outcomes.
 
@@ -13,7 +13,7 @@ The analysis is based on the provided Excel workbook containing cleaned transact
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are:
 
@@ -28,7 +28,7 @@ The main objectives of this project are:
 
 ---
 
-# 📊 Dashboard Preview
+#  Dashboard Preview
 
 This project includes an Excel-based interactive dashboard designed to provide a clear and management-friendly view of e-commerce performance.
 
@@ -40,22 +40,22 @@ The dashboard provides a consolidated view of key e-commerce performance indicat
 
 ### Dashboard Includes
 
-- 💰 Net Revenue
-- 📦 Total Orders
-- 👥 Customers
-- 🛒 Quantity Sold
-- 💵 Average Order Value
-- ⭐ Average Rating
-- 📅 Monthly Revenue Performance
-- 🌍 Regional Revenue Performance
-- 🛍️ Category Performance
-- 🏆 Product Performance
-- 👥 Customer Segment Analysis
-- 📦 Order Status Analysis
-- 💳 Payment Method Analysis
-- 👤 Customer Demographics
+-  Net Revenue
+-  Total Orders
+-  Customers
+-  Quantity Sold
+-  Average Order Value
+-  Average Rating
+-  Monthly Revenue Performance
+-  Regional Revenue Performance
+-  Category Performance
+-  Product Performance
+-  Customer Segment Analysis
+-  Order Status Analysis
+-  Payment Method Analysis
+-  Customer Demographics
 
-## 📊 Dataset Information
+##  Dataset Information
 
 ### Analysis Period
 
@@ -73,7 +73,7 @@ The dashboard provides a consolidated view of key e-commerce performance indicat
 
 ---
 
-## 📁 Workbook Structure
+##  Workbook Structure
 
 The Excel workbook contains the following sheets:
 
@@ -114,7 +114,7 @@ This sheet contains supporting analysis information used within the workbook.
 
 ---
 
-## 🧾 Data Dictionary
+##  Data Dictionary
 
 | Column | Description |
 |---|---|
@@ -143,7 +143,7 @@ This sheet contains supporting analysis information used within the workbook.
 
 ---
 
-# 📈 Key Performance Indicators
+#  Key Performance Indicators
 
 The analysis produces the following major KPIs:
 
@@ -172,7 +172,7 @@ The analysis produces the following major KPIs:
 
 ---
 
-# 📅 Monthly Performance
+#  Monthly Performance
 
 | Month | Orders | Net Revenue |
 |---|---:|---:|
@@ -193,7 +193,7 @@ August contains fewer records in the available analysis period, so its lower rev
 
 ---
 
-# 🌍 Regional Performance
+#  Regional Performance
 
 | Region | Orders | Net Revenue |
 |---|---:|---:|
@@ -212,9 +212,9 @@ This indicates that West and South are important regions for maintaining strong 
 
 ---
 
-# 🛍️ Category Performance
+#  Category Performance
 
-| Category | Orders | Net Revenue |
+| `Category | Orders | Net Revenue |
 |---|---:|---:|
 | **Electronics** | 22 | **₹140,692.10** |
 | **Fashion** | 28 | **₹109,891.35** |
@@ -233,7 +233,7 @@ Together, Electronics and Fashion contribute approximately **63.7% of total net 
 
 ---
 
-# 🏆 Product Performance
+#  Product Performance
 
 | Product | Orders | Net Revenue |
 |---|---:|---:|
@@ -258,7 +258,7 @@ Running Shoes and Coffee Maker are the next strongest products by revenue.
 
 ---
 
-# 👥 Customer Segment Analysis
+#  Customer Segment Analysis
 
 | Customer Segment | Orders | Net Revenue |
 |---|---:|---:|
@@ -276,7 +276,7 @@ The dataset contains **20 unique customers**, with repeat-order behaviour provid
 
 ---
 
-# 📦 Order Status Analysis
+#  Order Status Analysis
 
 | Order Status | Orders | Share |
 |---|---:|---:|
@@ -297,7 +297,7 @@ Reducing returns, cancellations, and pending orders can improve operational effi
 
 ---
 
-# 💳 Payment Method Analysis
+#  Payment Method Analysis
 
 | Payment Method | Orders | Net Revenue |
 |---|---:|---:|
@@ -315,7 +315,7 @@ Debit Card is the second-highest payment method by revenue.
 
 ---
 
-# 👤 Customer Demographics
+# Customer Demographics
 
 ## Gender
 
@@ -340,7 +340,7 @@ The rating indicates generally positive customer feedback while leaving room for
 
 ---
 
-# 🔎 Key Business Insights
+#  Key Business Insights
 
 The major findings from the analysis are:
 
@@ -360,7 +360,7 @@ The major findings from the analysis are:
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 ## 1. Protect High-Performing Regions
 
@@ -420,7 +420,7 @@ This can help balance sales growth with revenue efficiency.
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 The Excel dashboard provides an executive-level view of:
 
@@ -447,7 +447,7 @@ The Excel dashboard provides an executive-level view of:
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 ### Primary Tool
 
@@ -468,7 +468,7 @@ The Excel dashboard provides an executive-level view of:
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
 Raw Transaction Data
@@ -497,7 +497,7 @@ Make sure there are **three backticks directly after `Recommendations`**:
 ```text
 Recommendations
 ---
-# 👨‍💻 Author
+#  Author
 
 **Project Title:** E-Commerce Order & Customer Analytics
 
