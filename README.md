@@ -486,8 +486,9 @@ Dashboard
         ↓
 Business Insights
         ↓
-Recommendations
-```text
+Recommendation
+
+
 # 👨‍💻 Author
 
 **Project Title:** E-Commerce Order & Customer Analytics
