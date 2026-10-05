@@ -34,7 +34,10 @@ This project includes an Excel-based interactive dashboard designed to provide a
 
 ### E-Commerce Order & Customer Analytics Dashboard
 
-<img width="1176" height="528" alt="E-Commerce Order & Customer Analytics Dashboard" src="https://github.com/user-attachments/assets/a53c9f25-c4db-4cf0-a9ed-c095bb4956f8" />
+<img width="1500" height="968" alt="image-100kb" src="https://github.com/user-attachments/assets/f0990323-8365-4588-ae46-d48b2a658445" />
+
+
+
 
 The dashboard provides a consolidated view of key e-commerce performance indicators, including revenue, orders, customers, products, regions, customer segments, payment methods, and order status.
 
